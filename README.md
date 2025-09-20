@@ -24,7 +24,13 @@
 #### 🌦️ [KoinWeatherApplication](https://github.com/nakulsudhakar035/KoinWeatherApplication)  
 - Weather app built with **Koin DI, MVVM, Coroutines, and Flow**  
 - Showcases **clean architecture** and modular design  
-- Example of **state management and API integration**   
+- Example of **state management and API integration**
+
+#### 📱 [Android To-Do List App + ⌚ Wear OS Companion App](https://github.com/nakulsudhakar035/TodaysTasks)
+- Built with Clean Architecture, Jetpack Compose, Room, Coroutines, Flow
+- Implements real-time task synchronization between phone and watch using the Wearable Data Layer API
+- Demonstrates capability discovery, DataClient sync, and handling of intermittent connections
+- Features state management across multiple devices with a consistent UI 
 
 #### ⌚ Smartwatch Integration  
 - Connected smartwatch with Android app over **Bluetooth Classic**  
