@@ -44,7 +44,7 @@
 #### 📱 [TipCalculator](https://github.com/nakulsudhakar035/TipCalculator)  
 - Simple app to calculate **tips and split bills**  
 - Built with **Jetpack Compose**, real-time calculations with state updates  
-- Practiced **form UI design and validation**  
+- Configured **CI/CD pipeline** using **GitHub Actions** for automated testing and deployment  
 
 #### 🎨 [ComposeQuadrantApplication](https://github.com/nakulsudhakar035/ComposeQuadrantApplication)  
 - Demonstrates layout building in **Jetpack Compose** using quadrant grid  
