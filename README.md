@@ -2,7 +2,7 @@
 
 💻 **Android Developer** | Kotlin | Jetpack Compose | BLE & IoT  
 🌱 Currently exploring **Clean Architecture, Coroutines, and Flows**  
-🚀 Built apps in domains like **POS systems, Indoor Navigation, and Wearables**  
+🚀 Built apps in domains like **POS systems, Indoor Navigation, Biomedical, Navigation and Wearables**  
 
 ---
 
