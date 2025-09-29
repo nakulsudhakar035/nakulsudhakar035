@@ -32,7 +32,7 @@
 - Demonstrates capability discovery, DataClient sync, and handling of intermittent connections
 - Features state management across multiple devices with a consistent UI 
 
-#### 🎙️ SpeechMatcherLib (https://github.com/nakulsudhakar035/SpeechMatcherLib)
+#### 🎙️ [SpeechMatcherLib](https://github.com/nakulsudhakar035/SpeechMatcherLib)
 - Android library for matching speech input against expected text
 - Built with Kotlin and Coroutines
 - Provides a simple API for real-time speech recognition and validation
