@@ -32,10 +32,12 @@
 - Demonstrates capability discovery, DataClient sync, and handling of intermittent connections
 - Features state management across multiple devices with a consistent UI 
 
-#### ⌚ Smartwatch Integration  
-- Connected smartwatch with Android app over **Bluetooth Classic**  
-- Real-time data syncing & **error handling for device disconnections**  
-- Designed with **foreground/background services** for long-running connections  
+#### 🎙️ SpeechMatcherLib (https://github.com/nakulsudhakar035/SpeechMatcherLib)
+- Android library for matching speech input against expected text
+- Built with Kotlin and Coroutines
+- Provides a simple API for real-time speech recognition and validation
+- Designed for modular integration into Android apps
+- Showcases clean code practices and reusable architecture
 
 ---
 
