@@ -1,7 +1,7 @@
 # Hi, I'm Nakul 👋  
 
 💻 **Android Developer** | Kotlin | Jetpack Compose | BLE & IoT  
-🌱 Currently exploring **Clean Architecture, Coroutines, and Flows**  
+🌱 Currently exploring **Kotlin Multiplatform (KMP), Clean Architecture, Coroutines, and Flows**  
 🚀 Built apps in domains like **POS systems, Indoor Navigation, Biomedical, Utility and Wearables**  
 
 ---
@@ -12,6 +12,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines-FF6F00?style=for-the-badge&logo=kotlin&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
